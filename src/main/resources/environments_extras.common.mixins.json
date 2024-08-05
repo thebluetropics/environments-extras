@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "io.github.thebluetropics.environmentsextras.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "HoeItemMixin",
+    "ShovelItemMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
